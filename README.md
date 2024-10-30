@@ -1,2 +1,2 @@
 # Cadavre-Exquis
-Usado para jogo em sala.
+Uma pessoa estava em Quixadá na praça do Leão então ...
