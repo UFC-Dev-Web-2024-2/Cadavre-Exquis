@@ -1,4 +1,5 @@
 # Cadavre-Exquis
+<<<<<<< HEAD
 
 Uma pessoa estava em Quixadá na praça do Leão então tropeçou e morreu. mas ele(a) era amigo da eleven e sobreviveu
 
@@ -22,3 +23,6 @@ Então, de forma insesperada, ele econtrou um tatu bebendo água e perguntou pra
 > Onde tem um moto taxi aqui perto?
 
 ![alt text](https://github.com/UFC-Dev-Web-2024-2/Cadavre-Exquis/blob/main/igrejas%20029.jpg?raw=true)
+=======
+Uma pessoa estava em Quixadá na praça do Leão então tropeçou e morreu ao cair do leão.
+>>>>>>> origin/leao
