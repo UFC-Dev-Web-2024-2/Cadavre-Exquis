@@ -43,3 +43,5 @@ Então, de forma insesperada, ele econtrou um tatu bebendo água...
 O tatu tinha poderes místicos e concedeu um desejo a ele
 
 ![alt text](https://github.com/UFC-Dev-Web-2024-2/Cadavre-Exquis/blob/main/igrejas%20029.jpg?raw=true)
+
+Uma pessoa estava em Quixadá, na praça do Leão, quando o céu se iluminou com uma luz intensa, vinda de uma esfera dourada que flutuava silenciosamente. As pessoas ao redor pararam, olhando em choque, enquanto o objeto parecia dançar entre as nuvens, emitindo um som suave como música distante. De repente, a esfera desceu até o meio da praça e, com um zumbido leve, desapareceu em um piscar de olhos. Nenhuma explicação foi dada, mas todos sabiam: algo do além havia tocado a terra.
